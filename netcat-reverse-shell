@@ -1,0 +1,3 @@
+(macos)
+attacker: ncat -lvp 4444
+server: ncat localhost 4444
