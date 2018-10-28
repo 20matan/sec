@@ -3,7 +3,7 @@ addn-hosts=dnsmasq.hosts
 
 # dnsmask.hosts
 # (ip resolve), for example:
-127.0.0.1 bla.site.com
+192.123.12.123 bla.site.com
 
 # run using dnsmask
 dnmask -C dnsmask.conf --no-daemon
