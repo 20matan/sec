@@ -1,3 +1,4 @@
+# http://www.dest-unreach.org/socat/doc/socat-openssltunnel.html
 FILENAME=server
 # Generate a public/private key pair:
 openssl genrsa -out $FILENAME.key 1024

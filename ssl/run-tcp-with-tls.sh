@@ -1,2 +1,2 @@
 # start TCP with TLS support (notice verify=0 indicator which mean it will not verify the cert against the hostname)
-% sudo socat openssl-listen:443,reuseaddr,fork,cert=file.crt,cafile=ca.pem,key=file.key,verify=0 -
+sudo socat openssl-listen:443,reuseaddr,fork,cert=file.crt,cafile=ca.pem,key=file.key,verify=0 -
