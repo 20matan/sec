@@ -22,3 +22,4 @@
 - https://github.com/JohnHammond/ctf-katana Great tips/helpers for CTFs
 - https://webhook.site Allows you to easily test webhooks and other types of HTTP requests
 - https://appsecwiki.com/#/
+- https://medium.com/@20matan/hacker101-challenges-writeup-65bdad15e438 hacker101 challegnes writeup
